@@ -49,7 +49,7 @@ Your browser may warn that this file type can harm your device. This is **standa
 
 - **Version:** v2.0.4  
 - **File:** ActivityLens.apk  
-- **Size:** ~15 MB  
+- **Size:** ~3 MB  
 
 **[Download APK from Releases](../../releases)**
 
